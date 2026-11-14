@@ -3,5 +3,11 @@
     "usuario": "ana",
     "salt": "e85941e7c6adeaae17c8c8187c3097ee",
     "hash": "55fbead3cd9159d70884d884af9e6205e5bccc2f8f244a163a0bf6adf36dc85d082cc385e49872f5e47c307a590b08110a8b5ebd7eec7d96a4f3cc7e365cd9aa"
+  },
+  {
+    "usuario": "shepersuasion",
+    "salt": "ad93b72d381a4ab36300dd5c0272d00d",
+    "hash": "bf02fd3fff2fcd5b9cf4492428984262e339bb3fb0ce1743260f51980ddc6981bb5b2f47ee8b1843700d4eab0ee126a491eec6899cf116d4d178da294711722e",
+    "N": 131072
   }
 ]
