@@ -269,5 +269,13 @@
       "url": "https://discord.gg/6HXRqrYkm",
       "sala": ""
     }
+  ],
+  "partidos": [
+    {
+      "fecha": "2026-11-15T16:06",
+      "rival": "Wast Santos",
+      "liga": "Margarita",
+      "sala": ""
+    }
   ]
 }
