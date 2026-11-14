@@ -29,5 +29,15 @@
     "alias": [
       "capi"
     ]
+  },
+  "kaielfacha": {
+    "partidos": [],
+    "nick": "Yann Sommer",
+    "posicion": "GK",
+    "camiseta": 1,
+    "desde": "2026-11-10",
+    "alias": [
+      "Moises Caicedo"
+    ]
   }
 }
