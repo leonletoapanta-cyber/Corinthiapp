@@ -1,0 +1,73 @@
+{
+  "equipo": "Corinthians",
+  "lema": "Fiel até a morte",
+  "discord": {
+    "url": "https://discord.gg/mUDCt5tpH9",
+    "descripcion": "Servidor oficial del equipo",
+    "clientId": "1570552321908154469",
+    "servidorId": ""
+  },
+  "estadisticas": {
+    "victorias": 24,
+    "empates": 6,
+    "derrotas": 9,
+    "golesFavor": 118,
+    "golesContra": 71
+  },
+  "jugadores": [
+    { "nick": "Zeta",   "partidos": 36, "goles": 41, "asistencias": 12, "mvp": 9, "horas": 212 },
+    { "nick": "Kairo",  "partidos": 38, "goles": 33, "asistencias": 19, "mvp": 7, "horas": 187 },
+    { "nick": "Lobo",   "partidos": 35, "goles": 18, "asistencias": 27, "mvp": 8, "horas": 164 },
+    { "nick": "Nacho",  "partidos": 33, "goles": 15, "asistencias": 22, "mvp": 5, "horas": 143 },
+    { "nick": "Draven", "partidos": 31, "goles": 12, "asistencias": 9,  "mvp": 6, "horas": 121 },
+    { "nick": "Toro",   "partidos": 30, "goles": 9,  "asistencias": 14, "mvp": 3, "horas": 96 },
+    { "nick": "Mati",   "partidos": 27, "goles": 7,  "asistencias": 11, "mvp": 2, "horas": 74 },
+    { "nick": "Sombra", "partidos": 24, "goles": 4,  "asistencias": 6,  "mvp": 4, "horas": 58 }
+  ],
+  "ligas": [
+    {
+      "nombre": "Margarita",
+      "descripcion": "Liga X5",
+      "estado": "inscritos",
+      "posicion": 3,
+      "equipos": 12,
+      "puntos": 27,
+      "url": "https://discord.gg/5rQtBeHYSM"
+    },
+    {
+      "nombre": "Vivet",
+      "descripcion": "Liga X5",
+      "estado": "abierta",
+      "posicion": 5,
+      "equipos": 10,
+      "puntos": 19,
+      "url": "https://discord.gg/45zDMJvz6S"
+    },
+    {
+      "nombre": "HaxLibu",
+      "descripcion": "Liga X5. Abierta, aún no iniciada.",
+      "estado": "abierta",
+      "url": "https://discord.gg/BGDdQxtt2Z"
+    }
+  ],
+  "hosts": [
+    {
+      "nombre": "Xhosting",
+      "descripcion": "Es el host principal del server",
+      "url": "https://discord.gg/ghXpc6mPYf",
+      "sala": ""
+    },
+    {
+      "nombre": "Hostix",
+      "descripcion": "Host unicamente para vivet",
+      "url": "https://discord.gg/RWwP5Pe5nS",
+      "sala": ""
+    },
+    {
+      "nombre": "Mr host",
+      "descripcion": "Es el que aveces usamos.",
+      "url": "https://discord.gg/6HXRqrYkm",
+      "sala": ""
+    }
+  ]
+}

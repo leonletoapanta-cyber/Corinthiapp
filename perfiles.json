@@ -1,0 +1,23 @@
+{
+  "ana": {
+    "partidos": [
+      {
+        "fecha": "2026-11-12",
+        "rival": "nexus",
+        "liga": "vivet",
+        "gf": 7,
+        "gc": 0,
+        "goles": 5,
+        "asistencias": 0,
+        "autogoles": 0,
+        "mvp": true,
+        "valla": false
+      }
+    ],
+    "nick": "leo",
+    "posicion": "gk",
+    "camiseta": 10,
+    "horas": 130,
+    "bio": "que onda"
+  }
+}
