@@ -19,5 +19,15 @@
     "camiseta": 10,
     "horas": 130,
     "bio": "que onda"
+  },
+  "cicade": {
+    "partidos": [],
+    "nick": "cicade",
+    "posicion": "MC",
+    "camiseta": 10,
+    "desde": "2026-11-10",
+    "alias": [
+      "capi"
+    ]
   }
 }
