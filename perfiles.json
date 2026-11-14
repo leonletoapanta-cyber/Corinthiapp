@@ -39,5 +39,15 @@
     "alias": [
       "Moises Caicedo"
     ]
+  },
+  "shepersuasion": {
+    "partidos": [],
+    "nick": "shepersuasion",
+    "posicion": "MC",
+    "camiseta": 5,
+    "desde": "2026-11-10",
+    "alias": [
+      "shepersuasion"
+    ]
   }
 }
