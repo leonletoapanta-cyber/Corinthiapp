@@ -15,33 +15,89 @@
     "golesContra": 71
   },
   "jugadores": [
-    { "nick": "Zeta",   "partidos": 36, "goles": 41, "asistencias": 12, "mvp": 9, "horas": 212 },
-    { "nick": "Kairo",  "partidos": 38, "goles": 33, "asistencias": 19, "mvp": 7, "horas": 187 },
-    { "nick": "Lobo",   "partidos": 35, "goles": 18, "asistencias": 27, "mvp": 8, "horas": 164 },
-    { "nick": "Nacho",  "partidos": 33, "goles": 15, "asistencias": 22, "mvp": 5, "horas": 143 },
-    { "nick": "Draven", "partidos": 31, "goles": 12, "asistencias": 9,  "mvp": 6, "horas": 121 },
-    { "nick": "Toro",   "partidos": 30, "goles": 9,  "asistencias": 14, "mvp": 3, "horas": 96 },
-    { "nick": "Mati",   "partidos": 27, "goles": 7,  "asistencias": 11, "mvp": 2, "horas": 74 },
-    { "nick": "Sombra", "partidos": 24, "goles": 4,  "asistencias": 6,  "mvp": 4, "horas": 58 }
+    {
+      "nick": "Zeta",
+      "partidos": 36,
+      "goles": 41,
+      "asistencias": 12,
+      "mvp": 9,
+      "horas": 212
+    },
+    {
+      "nick": "Kairo",
+      "partidos": 38,
+      "goles": 33,
+      "asistencias": 19,
+      "mvp": 7,
+      "horas": 187
+    },
+    {
+      "nick": "Lobo",
+      "partidos": 35,
+      "goles": 18,
+      "asistencias": 27,
+      "mvp": 8,
+      "horas": 164
+    },
+    {
+      "nick": "Nacho",
+      "partidos": 33,
+      "goles": 15,
+      "asistencias": 22,
+      "mvp": 5,
+      "horas": 143
+    },
+    {
+      "nick": "Draven",
+      "partidos": 31,
+      "goles": 12,
+      "asistencias": 9,
+      "mvp": 6,
+      "horas": 121
+    },
+    {
+      "nick": "Toro",
+      "partidos": 30,
+      "goles": 9,
+      "asistencias": 14,
+      "mvp": 3,
+      "horas": 96
+    },
+    {
+      "nick": "Mati",
+      "partidos": 27,
+      "goles": 7,
+      "asistencias": 11,
+      "mvp": 2,
+      "horas": 74
+    },
+    {
+      "nick": "Sombra",
+      "partidos": 24,
+      "goles": 4,
+      "asistencias": 6,
+      "mvp": 4,
+      "horas": 58
+    }
   ],
   "ligas": [
     {
       "nombre": "Margarita",
       "descripcion": "Liga X5",
       "estado": "inscritos",
-      "posicion": 3,
-      "equipos": 12,
-      "puntos": 27,
-      "url": "https://discord.gg/5rQtBeHYSM"
+      "url": "https://discord.gg/5rQtBeHYSM",
+      "posicion": 4,
+      "equipos": 10,
+      "puntos": 3
     },
     {
       "nombre": "Vivet",
       "descripcion": "Liga X5",
-      "estado": "abierta",
-      "posicion": 5,
+      "estado": "inscritos",
+      "url": "https://discord.gg/45zDMJvz6S",
+      "posicion": 10,
       "equipos": 10,
-      "puntos": 19,
-      "url": "https://discord.gg/45zDMJvz6S"
+      "puntos": 0
     },
     {
       "nombre": "HaxLibu",
