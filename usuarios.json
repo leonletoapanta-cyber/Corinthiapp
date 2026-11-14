@@ -34,5 +34,11 @@
     "salt": "f16c302375a4c9d1dd62468f66f3dcbf",
     "hash": "6c835da737531053fc694bf6083e1acf399e36d68d823b79d6798e56d5d60331d07ef0ca6f619ca78857c606fe1913acb7b6193b31d3cb6f52222e8ae195fc71",
     "N": 131072
+  },
+  {
+    "usuario": "Kaielfacha",
+    "salt": "21df9743e6455d6afea2f6dbf9e21177",
+    "hash": "3aa67fc3af39992311aa148d8a6fb1099fba11ab6af45645f152e949118eb948e19efd0fab35d1d67790cc32e30829f06f1cd76a2b7f3323effe7da992e8245d",
+    "N": 131072
   }
 ]
