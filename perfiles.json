@@ -49,5 +49,15 @@
     "alias": [
       "shepersuasion"
     ]
+  },
+  "zyrox": {
+    "partidos": [],
+    "nick": "Zyrox",
+    "posicion": "MC",
+    "camiseta": 6,
+    "desde": "2026-11-10",
+    "alias": [
+      "Zyrox"
+    ]
   }
 }
