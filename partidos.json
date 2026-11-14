@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "fecha": "2026-11-12",
+    "liga": "Margarita",
+    "rival": "Lexington",
+    "gf": 9,
+    "gc": 0,
+    "jugadores": [
+      {
+        "nick": "satan",
+        "goles": 6,
+        "asistencias": 1,
+        "autogoles": 0,
+        "mvp": true,
+        "valla": false
+      },
+      {
+        "nick": "duquer",
+        "goles": 2,
+        "asistencias": 2,
+        "autogoles": 0,
+        "mvp": false,
+        "valla": false
+      },
+      {
+        "nick": "cicade",
+        "goles": 1,
+        "asistencias": 1,
+        "autogoles": 0,
+        "mvp": false,
+        "valla": false
+      }
+    ]
+  }
+]
