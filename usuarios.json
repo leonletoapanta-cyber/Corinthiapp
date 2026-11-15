@@ -40,5 +40,11 @@
     "salt": "21df9743e6455d6afea2f6dbf9e21177",
     "hash": "3aa67fc3af39992311aa148d8a6fb1099fba11ab6af45645f152e949118eb948e19efd0fab35d1d67790cc32e30829f06f1cd76a2b7f3323effe7da992e8245d",
     "N": 131072
+  },
+  {
+    "usuario": "Dff999",
+    "salt": "e20bba4b6b6ca57d12abf6265fd42806",
+    "hash": "d167f3d6f19aa85d665625bbf8b492c5248edd72f26d2819db32f57539f016f608096a253f8f01c4eeed938650cc32c368b24addcc2050ce37a1fcbabf0dc523",
+    "N": 131072
   }
 ]
