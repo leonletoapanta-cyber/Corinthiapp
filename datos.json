@@ -7,241 +7,47 @@
     "clientId": "1570552321908154469",
     "servidorId": ""
   },
+  "lobbyNuevo": true,
+  "salaNueva": true,
+  "salasOficiales": ["corinthians", "xhosting", "hostix", "mr host", "margarita", "vivet", "haxlibu"],
+  "presencia": {
+    "url": "https://corinthiansapp-37eae-default-rtdb.firebaseio.com"
+  },
   "estadisticas": {
-    "victorias": 1,
-    "empates": 0,
-    "derrotas": 1,
-    "golesFavor": 9,
-    "golesContra": 7
+    "victorias": 24,
+    "empates": 6,
+    "derrotas": 9,
+    "golesFavor": 118,
+    "golesContra": 71
   },
   "jugadores": [
-    {
-      "nick": "kaielfacha",
-      "horas": 1
-    },
-    {
-      "nick": "cicade",
-      "horas": 0
-    },
-    {
-      "nick": "eme",
-      "horas": 0
-    },
-    {
-      "nick": "leoarndo",
-      "horas": 0
-    },
-    {
-      "nick": "Dzxm.",
-      "horas": 0
-    },
-    {
-      "nick": "mukou",
-      "horas": 0
-    },
-    {
-      "nick": "999",
-      "horas": 0
-    },
-    {
-      "nick": "londres",
-      "horas": 0
-    },
-    {
-      "nick": "kvb",
-      "horas": 0
-    },
-    {
-      "nick": "pringgood",
-      "horas": 0
-    },
-    {
-      "nick": "rojas",
-      "horas": 0
-    },
-    {
-      "nick": "signal",
-      "horas": 0
-    },
-    {
-      "nick": "hitlaroro",
-      "horas": 0
-    },
-    {
-      "nick": "julieta",
-      "horas": 0
-    },
-    {
-      "nick": "kiso",
-      "horas": 0
-    },
-    {
-      "nick": "pescadito",
-      "horas": 0
-    },
-    {
-      "nick": "cloutz",
-      "horas": 0
-    },
-    {
-      "nick": "gallo",
-      "horas": 0
-    },
-    {
-      "nick": "george",
-      "horas": 0
-    },
-    {
-      "nick": "sal",
-      "horas": 0
-    },
-    {
-      "nick": "tato",
-      "horas": 0
-    },
-    {
-      "nick": "zyrox",
-      "horas": 0
-    },
-    {
-      "nick": "1.1jhon",
-      "horas": 0
-    },
-    {
-      "nick": "._.",
-      "horas": 0
-    },
-    {
-      "nick": "/avatar",
-      "horas": 0
-    },
-    {
-      "nick": "acabada",
-      "horas": 0
-    },
-    {
-      "nick": "alex",
-      "horas": 0
-    },
-    {
-      "nick": "apolo",
-      "horas": 0
-    },
-    {
-      "nick": "azelonene",
-      "horas": 0
-    },
-    {
-      "nick": "belligol",
-      "horas": 0
-    },
-    {
-      "nick": "dani",
-      "horas": 0
-    },
-    {
-      "nick": "Daniel_Pl",
-      "horas": 0
-    },
-    {
-      "nick": "Davi",
-      "horas": 0
-    },
-    {
-      "nick": "Deko",
-      "horas": 0
-    },
-    {
-      "nick": "empx",
-      "horas": 0
-    },
-    {
-      "nick": "fallen",
-      "horas": 0
-    },
-    {
-      "nick": "Flpe.",
-      "horas": 0
-    },
-    {
-      "nick": "Fuminha",
-      "horas": 0
-    },
-    {
-      "nick": "Gio",
-      "horas": 0
-    },
-    {
-      "nick": "hal jordan",
-      "horas": 0
-    },
-    {
-      "nick": "hero 47",
-      "horas": 0
-    },
-    {
-      "nick": "insta",
-      "horas": 0
-    },
-    {
-      "nick": "lp.",
-      "horas": 0
-    },
-    {
-      "nick": "pppedroop.18",
-      "horas": 0
-    },
-    {
-      "nick": "rg",
-      "horas": 0
-    },
-    {
-      "nick": "ripio00",
-      "horas": 0
-    },
-    {
-      "nick": "satan",
-      "horas": 0
-    },
-    {
-      "nick": "alice",
-      "horas": 0
-    },
-    {
-      "nick": "thiago",
-      "horas": 0
-    },
-    {
-      "nick": "Zsenzo",
-      "horas": 0
-    },
-    {
-      "nick": "nicolax",
-      "horas": 0
-    },
-    {
-      "nick": "micro",
-      "horas": 0
-    }
+    { "nick": "Zeta",   "partidos": 36, "goles": 41, "asistencias": 12, "mvp": 9, "horas": 212 },
+    { "nick": "Kairo",  "partidos": 38, "goles": 33, "asistencias": 19, "mvp": 7, "horas": 187 },
+    { "nick": "Lobo",   "partidos": 35, "goles": 18, "asistencias": 27, "mvp": 8, "horas": 164 },
+    { "nick": "Nacho",  "partidos": 33, "goles": 15, "asistencias": 22, "mvp": 5, "horas": 143 },
+    { "nick": "Draven", "partidos": 31, "goles": 12, "asistencias": 9,  "mvp": 6, "horas": 121 },
+    { "nick": "Toro",   "partidos": 30, "goles": 9,  "asistencias": 14, "mvp": 3, "horas": 96 },
+    { "nick": "Mati",   "partidos": 27, "goles": 7,  "asistencias": 11, "mvp": 2, "horas": 74 },
+    { "nick": "Sombra", "partidos": 24, "goles": 4,  "asistencias": 6,  "mvp": 4, "horas": 58 }
   ],
   "ligas": [
     {
       "nombre": "Margarita",
       "descripcion": "Liga X5",
       "estado": "inscritos",
-      "url": "https://discord.gg/5rQtBeHYSM",
-      "posicion": 4,
-      "equipos": 10,
-      "puntos": 3
+      "posicion": 3,
+      "equipos": 12,
+      "puntos": 27,
+      "url": "https://discord.gg/5rQtBeHYSM"
     },
     {
       "nombre": "Vivet",
       "descripcion": "Liga X5",
-      "estado": "inscritos",
-      "url": "https://discord.gg/45zDMJvz6S",
-      "posicion": 10,
+      "estado": "abierta",
+      "posicion": 5,
       "equipos": 10,
-      "puntos": 0
+      "puntos": 19,
+      "url": "https://discord.gg/45zDMJvz6S"
     },
     {
       "nombre": "HaxLibu",
@@ -267,14 +73,6 @@
       "nombre": "Mr host",
       "descripcion": "Es el que aveces usamos.",
       "url": "https://discord.gg/6HXRqrYkm",
-      "sala": ""
-    }
-  ],
-  "partidos": [
-    {
-      "fecha": "2026-11-15T00:00",
-      "rival": "Wast Santos",
-      "liga": "Margarita",
       "sala": ""
     }
   ]
